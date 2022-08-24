@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+setup.py
+num2t4ru/__init__.py
+num2t4ru.egg-info/PKG-INFO
+num2t4ru.egg-info/SOURCES.txt
+num2t4ru.egg-info/dependency_links.txt
+num2t4ru.egg-info/top_level.txt

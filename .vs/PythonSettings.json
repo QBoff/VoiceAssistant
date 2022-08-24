@@ -1,0 +1,5 @@
+{
+  "TestFramework": "unittest",
+  "SuppressEnvironmentCreationPrompt": true,
+  "Interpreter": "Workspace|Workspace|venv"
+}
